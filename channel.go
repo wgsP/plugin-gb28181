@@ -8,10 +8,10 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/Monibuca/engine/v3"
-	"github.com/Monibuca/plugin-gb28181/v3/sip"
-	"github.com/Monibuca/plugin-gb28181/v3/transaction"
-	"github.com/Monibuca/plugin-gb28181/v3/utils"
+	"github.com/wgsP/engine/v3"
+	"github.com/wgsP/plugin-gb28181/v3/sip"
+	"github.com/wgsP/plugin-gb28181/v3/transaction"
+	"github.com/wgsP/plugin-gb28181/v3/utils"
 )
 
 type ChannelEx struct {

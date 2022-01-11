@@ -4,13 +4,13 @@
 
 ## 插件地址
 
-github.com/Monibuca/plugin-gb28181
+github.com/wgsP/plugin-gb28181
 
 ## 插件引入
 
 ```go
 import (
-_ "github.com/Monibuca/plugin-gb28181"
+_ "github.com/wgsP/plugin-gb28181"
 )
 ```
 

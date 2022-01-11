@@ -7,8 +7,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/Monibuca/plugin-gb28181/v3/sip"
-	"github.com/Monibuca/plugin-gb28181/v3/transport"
+	"github.com/wgsP/plugin-gb28181/v3/sip"
+	"github.com/wgsP/plugin-gb28181/v3/transport"
 )
 
 //状态机之状态

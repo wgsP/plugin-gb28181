@@ -1,9 +1,9 @@
 package gb28181
 
 import (
-	"github.com/Monibuca/engine/v3"
-	"github.com/Monibuca/plugin-gb28181/v3/utils"
-	. "github.com/Monibuca/utils/v3"
+	"github.com/wgsP/engine/v3"
+	"github.com/wgsP/plugin-gb28181/v3/utils"
+	. "github.com/wgsP/utils/v3"
 	"github.com/pion/rtp"
 )
 

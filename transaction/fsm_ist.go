@@ -1,6 +1,6 @@
 package transaction
 
-import "github.com/Monibuca/plugin-gb28181/v3/sip"
+import "github.com/wgsP/plugin-gb28181/v3/sip"
 
 func ist_rcv_invite(t *Transaction, evt Event,m *sip.Message) error {
 	return nil
